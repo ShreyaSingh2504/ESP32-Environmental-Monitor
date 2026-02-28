@@ -1,2 +1,2 @@
 # ESP32-Environmental-Monitor
-ESP32-based Environmental Monitoring System that measures temperature and humidity, applies data filtering using moving average algorithms, and displays real-time environmental status through serial monitoring. Designed using modular embedded C/C++ architecture for easy hardware integration and future IoT expansion.
+An ESP32-based Environmental Monitoring System developed to acquire, process, and monitor environmental data such as temperature and humidity. The project implements modular embedded programming, moving-average filtering for stable sensor readings, and real-time serial output visualization. Built with a software-first approach to enable seamless hardware integration and future IoT connectivity.
